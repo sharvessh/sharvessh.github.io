@@ -430,3 +430,9 @@ nav ul .fas{
   font-size: 10px;
 }
 }
+
+#msg{
+  color: #ff7300;
+  margin-top: -20px;
+  display: block;
+}
